@@ -22,5 +22,5 @@ function deleteBtn (){
 
 function madeBy(){
 
-    display.value = 'Praise' ;
+    display.value = 'Praise Tech' ;
 }
